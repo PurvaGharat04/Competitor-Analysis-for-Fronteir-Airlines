@@ -1,4 +1,4 @@
-## Competitor-Analysis-for-Fronteir-Airlines
+## Competitor-Analysis-for-Frontier-Airlines
 
 Analyzed the extracted dataset with frontier and it's competitor airlines, revealing key performance metrics for frontier in the period of June 2021 - July 2022, investigated the flight records to analyze the performance of airlines, delay rate, delay reasons produced dashboards using Tableau revealing key insights and recommendations for the competitor analysis. 
 
